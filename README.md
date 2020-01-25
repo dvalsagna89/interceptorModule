@@ -1,4 +1,5 @@
 # interceptorModule
+A module for AngularJS that allows to catch HTML responses and show messages according to the status code and the target url.
 
 # How to use
 
