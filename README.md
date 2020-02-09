@@ -32,7 +32,7 @@ A module for AngularJS that allows to catch HTML responses and show messages acc
     ```
   - Add the loader you want. A div tag with id="loader" is needed. I'm using one from this page: https://icons8.com/cssload
   
-# What i learned
+# What I learned
   - HTTP Status codes
   - Catch HTTP response data
   - Using promises
